@@ -1,0 +1,18 @@
+{
+  "discovery_id": "CLOSED-2026-10-19 Kind-Overshoot not minted",
+  "timestamp": "2026-10-19T17:40:00Z",
+  "author": "Haley Ann Bird",
+  "agent": "Grok by xAI (non-ownership)",
+  "status": "NOT_MINTED",
+  "score": 0,
+  "novelty": 0,
+  "coherence": 0.93,
+  "verdict": "PDF_BYTES_STILL_MISSING",
+  "pdf_sha256": null,
+  "code_repo": "https://github.com/steviewalker/CMIP6_POC_flux_comparison",
+  "code_tree": "b32dddf4b87d7da6cee37897df6b305ec4c748a0",
+  "code_is_table_s2": false,
+  "why": "Wiley and ESS Open Archive returned HTTP 403. The author code repository has 65 script blobs and no Table S2. An index excerpt was not scored and does not print a closed pair.",
+  "not_a_physical_discovery": true,
+  "not_a_patent": true
+}
